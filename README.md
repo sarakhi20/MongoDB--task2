@@ -3,11 +3,11 @@
 
 # Lessons Learned
 - Aggregate
-$lookup
-$unwind
-$match
-$project
-$dateToString
-$sort
-$group
-$sum
+- $lookup
+- $unwind
+- $match
+- $project
+- $dateToString
+- $sort
+- $group
+- $sum
